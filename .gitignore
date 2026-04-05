@@ -1,0 +1,11 @@
+# Build outputs
+[Bb]in/
+[Ob]j/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# NuGet
+packages/
